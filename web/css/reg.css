@@ -1,0 +1,21 @@
+.register {
+  width: 270px;
+  background: rgb(253, 251, 251);
+  float: left;
+  padding-top: 0;
+  border: 2px solid;
+}
+
+.register h2 {
+  margin: 10 auto;
+  text-align: center;
+}
+
+.register .id,
+.tel,
+.pwd1,
+.pwd2,
+.sub,
+.ch {
+  margin: 20px 20px 50px 50px;
+}
